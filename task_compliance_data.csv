@@ -1,0 +1,5 @@
+Task Date,Site,Region,Department,Functional Category,Shift,Task Compliance Rate (%)
+2023-01-01,Plant A,North,Production,Operator,Day,95.5
+2023-01-01,Plant B,South,Production,Operator,Night,92.1
+2023-01-08,Plant A,North,Production,Operator,Day,96.2
+2023-01-08,Plant C,West,Maintenance,Technician,Day,98.0

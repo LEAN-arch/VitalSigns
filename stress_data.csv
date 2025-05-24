@@ -1,0 +1,20 @@
+site,region,department,fc,shift,date,overtime_hours,unfilled_shifts,stress_level_survey,workload_perception,psychological_signals
+Site A,North,Operations,FC1,Day,2023-01-15,25,2,6.5,7.0,6.0
+Site A,North,HR,FC2,Day,2023-01-15,5,0,3.0,4.0,3.5
+Site B,South,Operations,FC1,Night,2023-01-15,40,5,7.8,8.0,7.5
+Site A,North,Operations,FC1,Day,2023-02-15,20,1,5.5,6.0,5.8
+Site B,South,IT,FC3,Day,2023-02-15,10,0,4.0,5.0,4.5
+Site C,East,Sales,FC4,Day,2023-01-15,15,1,5.0,6.0,5.5
+Site A,North,Operations,FC1,Day,2023-03-15,22,1,6.0,6.5,6.2
+Site B,South,Operations,FC1,Night,2023-03-15,35,3,7.2,7.5,7.0
+Site C,East,Sales,FC4,Day,2023-03-15,18,0,5.3,6.2,5.7
+Site A,North,Operations,FC1,Night,2023-04-15,30,3,7.0,7.2,6.8
+Site B,South,Operations,FC1,Day,2023-04-15,28,1,6.8,7.1,6.5
+Site C,East,Warehouse,FC5,Night,2023-05-15,45,4,8.0,8.5,8.0
+Site A,North,HR,FC2,Day,2023-05-15,8,0,3.5,4.5,3.8
+Site B,South,IT,FC3,Day,2023-06-15,12,0,4.2,5.2,4.7
+Site A,North,Operations,FC1,Day,2023-06-15,26,2,6.3,6.8,6.1
+Site D,West,Engineering,FC6,Day,2023-01-20,5,0,2.5,3.0,2.8
+Site D,West,Engineering,FC6,Day,2023-02-20,7,0,2.8,3.5,3.0
+Site D,West,Support,FC7,Night,2023-03-20,33,2,7.5,7.8,7.3
+Site D,West,Support,FC7,Day,2023-04-20,15,1,5.8,6.0,5.5
